@@ -556,7 +556,7 @@ input[type="checkbox"] {
     border-radius: 4px;
     margin-top: 14px;
     margin-left: 10px;
-    color: hsl(0, 0%, 100%);
+    color: hsl(0deg 0% 100%);
     padding: 3px 10px;
 
     &.account-alert-notification-email {
@@ -606,7 +606,7 @@ input[type="checkbox"] {
 
     /* make the spinner green like the text and box. */
     .loading_indicator_spinner svg path {
-        fill: hsl(0, 0%, 100%);
+        fill: hsl(0deg 0% 100%);
     }
 
     .loading_indicator_text {
